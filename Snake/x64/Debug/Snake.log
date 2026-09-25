@@ -1,0 +1,10 @@
+﻿  Snake.c
+E:\C语言\VS2026\Snake\Snake.c(41,18): warning C4066: 宽字符常量的第一个字符之外的字符被忽略
+E:\C语言\VS2026\Snake\Snake.c(46,19): warning C4066: 宽字符常量的第一个字符之外的字符被忽略
+E:\C语言\VS2026\Snake\Snake.c(51,19): warning C4066: 宽字符常量的第一个字符之外的字符被忽略
+E:\C语言\VS2026\Snake\Snake.c(56,19): warning C4066: 宽字符常量的第一个字符之外的字符被忽略
+E:\C语言\VS2026\Snake\Snake.c(94,19): warning C4066: 宽字符常量的第一个字符之外的字符被忽略
+E:\C语言\VS2026\Snake\Snake.c(139,18): warning C4066: 宽字符常量的第一个字符之外的字符被忽略
+E:\C语言\VS2026\Snake\Snake.c(218,18): warning C4066: 宽字符常量的第一个字符之外的字符被忽略
+E:\C语言\VS2026\Snake\Snake.c(237,19): warning C4066: 宽字符常量的第一个字符之外的字符被忽略
+  Snake.vcxproj -> E:\C语言\VS2026\Snake\x64\Debug\Snake.exe
