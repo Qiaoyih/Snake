@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "Snake.c",
               "ToolTip": "E:\\C\u8BED\u8A00\\VS2026\\Snake\\Snake.c",
               "RelativeToolTip": "Snake.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowB4AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2026-09-25T13:29:09.039Z",
               "EditorCaption": ""
@@ -51,8 +51,7 @@
               "RelativeToolTip": "test.c",
               "ViewState": "AgIAABUAAAAAAAAAAAAAACAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-09-23T11:56:23.13Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-23T11:56:23.13Z"
             },
             {
               "$type": "Document",
@@ -64,8 +63,7 @@
               "RelativeToolTip": "Snake.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-09-23T11:56:07.34Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-23T11:56:07.34Z"
             }
           ]
         }
